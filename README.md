@@ -1,7 +1,7 @@
 # Portfolio Personnel
 
 Bienvenue sur mon portfolio personnel! Ce site vise à présenter mes compétences, mes projets et mon parcours scolaire et académique. Vous pouvez accéder au site en cliquant sur ce [lien](https://personal-portfolio-aab35.firebaseapp.com/).
-NB  : Ce site en cours de développement 
+NB  : Ce site en cours de développement.
 
 ## Compétences
 
